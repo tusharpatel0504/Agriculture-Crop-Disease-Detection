@@ -286,7 +286,7 @@ Agriculture-Crop-Disease-Detection/
 
 ## 👥 Core Team & Contributors
 
-### Core Development Team (70% Contribution)
+### Contributing Developers
 * **Tushar Patel** ([@tusharpatel0504](https://github.com/tusharpatel0504)) - **Project Lead & Architecture**  
   Overall project leadership, system architecture, advisory schema design, API integration, and final deployment.
 * **Shiva** ([@Workingshivayadav-ui](https://github.com/Workingshivayadav-ui)) - **Frontend Lead**  
@@ -295,8 +295,6 @@ Agriculture-Crop-Disease-Detection/
   Express API server, MongoDB schemas, JWT authentication middleware, Multer file upload pipelines, and routes.
 * **Sudhanshu Katiyar** ([@uffy-957](https://github.com/uffy-957)) - **Machine Learning Lead**  
   MobileNetV2 transfer learning, dataset structuring, CNN model training, checkpoint management, and inference pipelines.
-
-### Contributing Developers (30% Contribution)
 * **Arnav** ([@arnav240306](https://github.com/arnav240306)) - Dataset summary analysis, metric callbacks, and UI notification components.
 * **Ankit Sharma** ([@AnkitSharma5304](https://github.com/AnkitSharma5304)) - Class configuration mapping, modeling documentation, and frontend API modules.
 * **Shivam Gautam** ([@gautama-28](https://github.com/gautama-28)) - Data distribution visualizations and backend environment configs.
